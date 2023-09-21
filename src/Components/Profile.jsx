@@ -14,10 +14,10 @@ const Profile = ({user, isLoading}) => {
         <p>{user.email}</p>
       </div>
       <button href="#">Plan Itinerary</button>
-      <button href="#">Plan Itinerary</button>
-      <button href="#">Plan Itinerary</button>
-      <button href="#">Plan Itinerary</button>
-      <button href="#">Plan Itinerary</button>
+      <button href="#">Cruise Deals</button>
+      <button href="#">Destinations</button>
+      <button href="#">FAQ</button>
+      <button href="#">Contact Us</button>
       <LogoutButton />
     </>
   )

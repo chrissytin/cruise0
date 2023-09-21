@@ -45,6 +45,18 @@
   }
 }
 
+#error-wrapper {
+  background: #fff;
+  width: 400px;
+  border-radius: 6px;
+  padding: 24px;
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 #app-wrapper {
   background: #fff;
   width: 400px;
